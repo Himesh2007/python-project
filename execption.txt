@@ -1,1 +1,1 @@
-hello i am python programmer i am learning django
+hello i am python programmer i am learning django i am learning django
